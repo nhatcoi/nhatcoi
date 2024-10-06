@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! 👋, I'm Jack</h1>
+<h1 align="center">Hello World! 👋, I'm Jackie</h1>
 <h3 align="center">A Full-Stack Developer passionate about consistent web/app solutions.</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
