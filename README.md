@@ -1,16 +1,83 @@
-<h1 align="center">Hello World! 👋, I'm Jackie</h1>
-<h3 align="center">A Full-Stack Developer passionate about consistent web/app solutions.</h3>
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
+<h1 align="center">
+  <img width="25px" alt="Hello" src="https://camo.githubusercontent.com/2ec030bc751ce444be25f6ed5aa026d2a0950d5cc62603faa27f4ec72f1e7ac3/68747470733a2f2f782e747739332e66756e2f696d616765732f68692e676966">
+  Hello, World! I'm Jackie 
+</h1>
 
-- 🔭 I’m currently working on **Web/App**
+<h3 align="center">
+  A Full-Stack Developer who is enthusiastic about DevOps procedures and seamless web/app solutions
+</h3>
 
-- 🌱 I’m currently learning **Full-stack**
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nhat-nguyen-59b691310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nhat-nguyen-59b691310" height="30" width="40" /></a>
-<a href="https://fb.com/nhatcoi037" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nhatcoi037" height="30" width="40" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/jackie-white?style=for-the-badge&logo=Linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/nhatcoi)
+[![Portfolio](https://img.shields.io/badge/🌐_jackie.live-white?style=for-the-badge&logoColor=0A66C2)](#)
+[![Facebook](https://img.shields.io/badge/jackie-white?style=for-the-badge&logo=facebook&logoColor=0866FF)](https://www.facebook.com/nhatcoi037)
+[![My CV](https://img.shields.io/badge/My_CV-white?style=for-the-badge&logo=readdotcv&logoColor=EC1C24)](#)
+[![Email](https://img.shields.io/badge/contact_for_work-white?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:jackie04.work@outlook.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+  <img width="300px" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Workspace">
+</div>
+
+***
+
+### ✨ About Me
+
+- 🏢 Location: The most cutting-edge dormitory in Southeast Asia, situated in Hanoi.
+
+- 🦀 Favorite Food: King crab with extra Java, Javascript toppings
+
+- 💻 Currently Learning: How to explain my code to my future self without causing frustration.
+
+<h3>
+  <img width="18px" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
+  Technologies
+</h3>
+
+![React](https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-black?style=flat&logo=tailwindcss&logoColor=06B6D4)
+![Material UI](https://img.shields.io/badge/Material_UI-black?style=flat&logo=mui&logoColor=007FFF)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=flat&logo=bootstrap&logoColor=7952B3)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-black?style=flat&logo=thymeleaf&logoColor=005F0F)
+
+![Spring](https://img.shields.io/badge/Spring-black?style=flat&logo=spring&logoColor=6DB33F)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb&logoColor=47A248)
+![Docker](https://img.shields.io/badge/Docker-black?style=flat&logo=docker&logoColor=2496ED)
+![Heroku](https://img.shields.io/badge/Heroku-black?style=flat&logo=heroku&logoColor=430098)
+![Jenkins](https://img.shields.io/badge/Jenkins-black?style=flat&logo=jenkins&logoColor=D24939)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-black?style=flat&logo=gitlab&logoColor=FC6D26)
+
+### 🏆 Stats & Languages
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nhatcoi&hide=stars,issues&show=prs_merged_percentage&show_icons=true&theme=holi&border_color=71a9e&rank_icon=github&line_height=24)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhatcoi&exclude_repo=fCC_Responsive-Web-Design,fCC_JavaScript-Algorithms-and-Data-Structures,fCC_Front-End-Development-Libraries,fCC_Relational-Database,fCC_Quality-Assurance,fCC_Information-Security,temp-Portfolio&langs_count=6&layout=compact&theme=holi&border_color=71a9e&card_width=330px)
+
+### 🚀 Projects
+
+[//]: # ([![Portfolio]&#40;https://github-readme-stats.vercel.app/api/pin/?username=enkay2408&repo=portfolio&theme=gotham&border_color=54a68b&#41;]&#40;https://github.com/eNKay2408/Portfolio&#41;)
+
+[//]: # ([![E-Commerce]&#40;https://github-readme-stats.vercel.app/api/pin/?username=enkay2408&repo=e-commerce&theme=gotham&border_color=54a68b&#41;]&#40;https://github.com/eNKay2408/E-Commerce&#41;)
+
+[//]: # ()
+[//]: # ([![Property-Tracker]&#40;https://github-readme-stats.vercel.app/api/pin/?username=enkay2408&repo=property-tracker&theme=gotham&border_color=54a68b&#41;]&#40;https://github.com/eNKay2408/Property-Tracker&#41;)
+
+[//]: # ([![Digital Bank]&#40;https://github-readme-stats.vercel.app/api/pin/?username=enkay2408&repo=digital-bank&theme=gotham&border_color=54a68b&#41;]&#40;https://github.com/eNKay2408/Digital-Bank&#41;)
+
+[//]: # (### 📝 Lines of Code)
+
+[//]: # (![LOC Langs]&#40;https://api.githubtrends.io/user/svg/nhatcoi/langs?time_range=one_year&theme=dark&#41;)
+
+[//]: # (![LOC Repos]&#40;https://api.githubtrends.io/user/svg/nhatcoi/repos?time_range=one_year&group=other&theme=dark&#41;)
+
+### 🔥 Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=nhatcoi&theme=rising-sun&date_format=j%2Fn%5B%2FY%5D&border=e78e42&currStreakNum=e78e42&sideNums=e78e42&dates=fef7ee)
+
+***
+
+<div align="center">
+
+![Thank you](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=45A1FF&center=true&width=550&lines=Thank+you+for+visiting+my+GitHub+profile+%F0%9F%92%99)
+
+</div>
