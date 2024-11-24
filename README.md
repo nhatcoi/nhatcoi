@@ -45,7 +45,6 @@
 ![Docker](https://img.shields.io/badge/Docker-black?style=flat&logo=docker&logoColor=2496ED)
 ![GitLab](https://img.shields.io/badge/GitLab_CI/CD-black?style=flat&logo=gitlab&logoColor=FC6D26)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-black?style=flat&logo=googlecloud&logoColor=4285F4)
-![AWS](https://img.shields.io/badge/AWS-black?style=flat&logo=amazonaws&logoColor=FF9900)
 ![Redis](https://img.shields.io/badge/Redis-black?style=flat&logo=redis&logoColor=DC382D)
 
 ### 🏆 Stats & Languages
