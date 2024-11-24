@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  A Full-Stack Developer who is enthusiastic about DevOps procedures and seamless web/app solutions
+  A Full-Stack Developer who is enthusiastic and seamless web/app solutions
 </h3>
 
 <div align="center">
@@ -22,21 +22,20 @@
 
 ### ✨ About Me
 
-- 🏢 Location: The most cutting-edge dormitory in Southeast Asia, situated in Hanoi.
+- 🏢 Location: Hanoi, Vietnam
 
-- 🦀 Favorite Food: King crab with extra Java, Javascript toppings
+- 🐶 Favorite Pets: Java, Javascript
 
 - 💻 Currently Learning: How to explain my code to my future self without causing frustration.
 
 <h3>
-  <img width="18px" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
+  <img width="18px" src="[https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif](https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif)">
   Technologies
 </h3>
 
 ![React](https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-black?style=flat&logo=tailwindcss&logoColor=06B6D4)
-![Material UI](https://img.shields.io/badge/Material_UI-black?style=flat&logo=mui&logoColor=007FFF)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=flat&logo=bootstrap&logoColor=7952B3)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-black?style=flat&logo=tailwindcss&logoColor=06B6D4)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-black?style=flat&logo=thymeleaf&logoColor=005F0F)
 
 ![Spring](https://img.shields.io/badge/Spring-black?style=flat&logo=spring&logoColor=6DB33F)
@@ -44,9 +43,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql&logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb&logoColor=47A248)
 ![Docker](https://img.shields.io/badge/Docker-black?style=flat&logo=docker&logoColor=2496ED)
-![Heroku](https://img.shields.io/badge/Heroku-black?style=flat&logo=heroku&logoColor=430098)
-![Jenkins](https://img.shields.io/badge/Jenkins-black?style=flat&logo=jenkins&logoColor=D24939)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-black?style=flat&logo=gitlab&logoColor=FC6D26)
+![GitLab](https://img.shields.io/badge/GitLab_CI/CD-black?style=flat&logo=gitlab&logoColor=FC6D26)
 
 ### 🏆 Stats & Languages
 
