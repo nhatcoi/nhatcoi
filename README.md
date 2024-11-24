@@ -15,7 +15,7 @@
 [![My CV](https://img.shields.io/badge/My_CV-white?style=for-the-badge&logo=readdotcv&logoColor=EC1C24)](#)
 [![Email](https://img.shields.io/badge/contact_for_work-white?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:jackie04.work@outlook.com)
 
-  <img width="300px" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Workspace">
+  <img width="300px" src="[https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif](https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif)" alt="Workspace">
 </div>
 
 ***
@@ -44,6 +44,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb&logoColor=47A248)
 ![Docker](https://img.shields.io/badge/Docker-black?style=flat&logo=docker&logoColor=2496ED)
 ![GitLab](https://img.shields.io/badge/GitLab_CI/CD-black?style=flat&logo=gitlab&logoColor=FC6D26)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-black?style=flat&logo=googlecloud&logoColor=4285F4)
+![AWS](https://img.shields.io/badge/AWS-black?style=flat&logo=amazonaws&logoColor=FF9900)
+![Redis](https://img.shields.io/badge/Redis-black?style=flat&logo=redis&logoColor=DC382D)
 
 ### 🏆 Stats & Languages
 
