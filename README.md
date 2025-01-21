@@ -52,7 +52,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nhatcoi&hide=stars,issues&show=prs_merged_percentage&show_icons=true&theme=holi&border_color=71a9e&rank_icon=github&line_height=24)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhatcoi&exclude_repo=fCC_Responsive-Web-Design,fCC_JavaScript-Algorithms-and-Data-Structures,fCC_Front-End-Development-Libraries,fCC_Relational-Database,fCC_Quality-Assurance,fCC_Information-Security,temp-Portfolio&langs_count=6&layout=compact&theme=holi&border_color=71a9e&card_width=330px)
 
-### 🚀 Projects
 
 [//]: # ([![Portfolio]&#40;https://github-readme-stats.vercel.app/api/pin/?username=enkay2408&repo=portfolio&theme=gotham&border_color=54a68b&#41;]&#40;https://github.com/eNKay2408/Portfolio&#41;)
 
