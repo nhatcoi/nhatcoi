@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/nhatcoi)
 [![Portfolio](https://img.shields.io/badge/🌐nhatcoi.space-white?style=for-the-badge&logoColor=0A66C2)](https://www.nhatcoi.space/)
 [![Facebook](https://img.shields.io/badge/jackie-white?style=for-the-badge&logo=facebook&logoColor=0866FF)](https://www.facebook.com/nhatcoi037)
-[![My CV](https://img.shields.io/badge/My_CV-white?style=for-the-badge&logo=readdotcv&logoColor=EC1C24)](https://drive.google.com/file/d/103o1YQ4XPMWZD3SYNTcfBYX9lxvnKbEJ/view?usp=sharing)
+[![My CV](https://img.shields.io/badge/My_CV-white?style=for-the-badge&logo=readdotcv&logoColor=EC1C24)](https://www.canva.com/design/DAGhlPWo8F4/G4U-iHw_LvtonSz7zPSq7g/edit?utm_content=DAGhlPWo8F4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 [![Email](https://img.shields.io/badge/contact_for_work-white?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:jackie04.work@outlook.com)
 
   <img width="300px" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Workspace">
