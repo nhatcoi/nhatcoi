@@ -9,8 +9,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/jackie-white?style=for-the-badge&logo=Linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/nhatcoi)
-[![Portfolio](https://img.shields.io/badge/🌐_jackie.live-white?style=for-the-badge&logoColor=0A66C2)](https://www.nhatcoi.space/)
+[![LinkedIn](https://img.shields.io/badge/jackie-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhatcoi)
+[![Portfolio](https://img.shields.io/badge/🌐nhatcoi.space-white?style=for-the-badge&logoColor=0A66C2)](https://www.nhatcoi.space/)
 [![Facebook](https://img.shields.io/badge/jackie-white?style=for-the-badge&logo=facebook&logoColor=0866FF)](https://www.facebook.com/nhatcoi037)
 [![My CV](https://img.shields.io/badge/My_CV-white?style=for-the-badge&logo=readdotcv&logoColor=EC1C24)](https://drive.google.com/file/d/103o1YQ4XPMWZD3SYNTcfBYX9lxvnKbEJ/view?usp=sharing)
 [![Email](https://img.shields.io/badge/contact_for_work-white?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:jackie04.work@outlook.com)
