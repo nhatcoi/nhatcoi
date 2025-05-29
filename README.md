@@ -1,6 +1,6 @@
 <h1 align="center">
   <img width="25px" alt="Hello" src="https://camo.githubusercontent.com/2ec030bc751ce444be25f6ed5aa026d2a0950d5cc62603faa27f4ec72f1e7ac3/68747470733a2f2f782e747739332e66756e2f696d616765732f68692e676966">
-  Hello, World! I'm Jackie 
+  Hello, World!
 </h1>
 
 <h3 align="center">
@@ -26,7 +26,7 @@
 
 - 🐶 Favorite Pets: Java, Javascript
 
-- 💻 Currently Learning: How to explain my code to my future self without causing frustration.
+- 💻 Currently Learning: ...
 
 <h3>
   <img width="18px" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
