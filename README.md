@@ -11,7 +11,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/nhatcoi)
 [![Portfolio](https://img.shields.io/badge/🌐nhatcoi.space-white?style=for-the-badge&logoColor=0A66C2)](https://www.nhatcoi.space/)
-[![Facebook](https://img.shields.io/badge/f -white?style=for-the-badge&logo=facebook&logoColor=0866FF)](https://www.facebook.com/nhatcoi037)
+[![Facebook](https://img.shields.io/badge/f-white?style=for-the-badge&logo=facebook&logoColor=0866FF)](https://www.facebook.com/nhatcoi037)
 [![My CV](https://img.shields.io/badge/My_CV-white?style=for-the-badge&logo=readdotcv&logoColor=EC1C24)](https://www.canva.com/design/DAGhlPWo8F4/2WMqCEQYF3qBZHQEQwryVg/view?utm_content=DAGhlPWo8F4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf59191daea)
 [![Email](https://img.shields.io/badge/contact_for_work-white?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:jackie04.work@outlook.com)
 
