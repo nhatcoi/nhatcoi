@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/nhatcoi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=firefox-browser&logoColor=0A66C2)](https://www.nhatcoi.space/)
 [![Facebook](https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook&logoColor=0866FF)](https://www.facebook.com/nhatcoi037)
-[![My CV](https://img.shields.io/badge/Resume-white?style=for-the-badge&logo=readdotcv&logoColor=EC1C24)](https://www.canva.com/design/DAGhlPWo8F4/2WMqCEQYF3qBZHQEQwryVg/view?utm_content=DAGhlPWo8F4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf59191daea)
+[![My CV]()
 [![Email](https://img.shields.io/badge/contact-white?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:vnhat.dev@gmail.com)
 
   <img width="300px" src="https://dbaasltd.com/assets/img/custom-software-development.gif" alt="banner">
