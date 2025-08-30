@@ -26,7 +26,7 @@
 
 - 🐶 Favorite Pets: Java, Javascript
 
-- 💻 Currently Learning: Nest, AWS
+- 💻 Currently Learning: Flutter
 
 <h3>
   <img width="18px" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
@@ -41,7 +41,6 @@
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-black?style=flat&logo=thymeleaf&logoColor=005F0F)
 
 ![Spring](https://img.shields.io/badge/Spring-black?style=flat&logo=spring&logoColor=6DB33F)
-![NestJS](https://img.shields.io/badge/NestJS-black?style=flat&logo=nestjs&logoColor=E0234E)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens&logoColor=white)
 
 
